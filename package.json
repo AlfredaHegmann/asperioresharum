@@ -1,0 +1,16 @@
+{
+  "name": "asperioresharum",
+  "version": "1.0.0",
+  "description": "GitHub-style identicons as PNGs or SVGs in JS.",
+  "main": "identicon.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlfredaHegmann/asperioresharum.git"
+  },
+  "keywords": [
+    "identicon"
+  ],
+  "author": "PercivalWalsh",
+  "license": "BSD",
+  "homepage": "https://github.com/AlfredaHegmann/asperioresharum.git"
+}
